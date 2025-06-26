@@ -2,7 +2,7 @@ name: Update Google Merchant Feed
 
 on:
   schedule:
-    - cron: '0 3 * * *' # ogni giorno alle 3:00 UTC
+    - cron: '0 2 * * *' # ogni giorno alle 4:00 UTC
   workflow_dispatch:
 
 jobs:
