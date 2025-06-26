@@ -1,0 +1,25 @@
+name: Update Google Merchant Feed
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # ogni giorno alle 3:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest XML feed
+        run: curl -o google-com-it.xml https://bluefields.it/pub/media/feed/google-com-it.xml
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add google-com-it.xml
+          git diff --cached --quiet || git commit -m "Update feed"
+          git push
