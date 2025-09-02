@@ -1,4 +1,4 @@
-<?xml version="1.0"?><rss version="2.0" xmlns:g="http://base.google.com/ns/1.0"> <channel><created_at>2025-09-01 00:00</created_at>
+<?xml version="1.0"?><rss version="2.0" xmlns:g="http://base.google.com/ns/1.0"> <channel><created_at>2025-09-02 00:00</created_at>
 
 <item>
 <g:id><![CDATA[22091-PLATINO]]></g:id>
@@ -1955,7 +1955,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Promo &gt; Donna &gt; Scarpe &gt; Decollete]]></g:product_type>
@@ -1987,17 +1987,17 @@
 <link>https://bluefields.it/it/decollet-232-stampa-pitone-de1005-senape-senape.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/4/4/44c4d82957aaf7c1760fedd5c9d3f889d413570921de1539a94e1c4da755847d.jpeg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>148.00 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Promo &gt; Donna &gt; Scarpe &gt; Decollete]]></g:product_type>
-<g:sale_price>74.00 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -22385,7 +22385,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Maglie]]></g:product_type>
@@ -24046,7 +24046,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
@@ -25054,45 +25054,6 @@
 <g:size><![CDATA[46]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[NEBBIA-001-BURRO-46]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_6.jpg</g:additional_image_link>
-<g:item_group_id>NEBBIA-001-BURRO</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[NEBBIA-001-BURRO]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Camicia in crepe di misto seta]]></title>
-<description><![CDATA[Camicia in crepe di misto seta color burro, collo a camicia, maniche lunghe con polsino, chiusura con bottoni, linea dritta, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/emme-camicia-in-crepe-di-misto-seta-nebbia-001-burro.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>109.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>54.95 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Avorio]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[NEBBIA-001-BURRO]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_4.jpg</g:additional_image_link>
@@ -26531,46 +26492,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[ALDO-001-ST-PALMA-44]]></g:id>
-<title><![CDATA[Pennyblack]]> <![CDATA[Pantaloni in twill di viscosa]]></title>
-<description><![CDATA[Pantaloni marroni a fantasia in twill di viscosa, vita elastica, tasche inserite sul fianco, linea ampia, piega stirata, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Pennyblack Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/pennyblack-pantaloni-in-twill-di-viscosa-aldo-001-st-palma.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>129.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[Out of Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni]]></g:product_type>
-<g:sale_price>64.50 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Pennyblack]]></g:brand>
-<g:color><![CDATA[Marrone]]></g:color>
-<g:size><![CDATA[44]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[ALDO-001-ST-PALMA-44]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/a/l/aldo-001-st-palma_6.jpg</g:additional_image_link>
-<g:item_group_id>ALDO-001-ST-PALMA</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[ALDO-001-ST-PALMA]]></g:id>
 <title><![CDATA[Pennyblack]]> <![CDATA[Pantaloni in twill di viscosa]]></title>
 <description><![CDATA[Pantaloni marroni a fantasia in twill di viscosa, vita elastica, tasche inserite sul fianco, linea ampia, piega stirata, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Pennyblack Primavera Estate 2025]]></description>
@@ -26583,7 +26504,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni]]></g:product_type>
@@ -27034,46 +26955,6 @@
 <g:size><![CDATA[44]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[STIMA-001-LATTE-44]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_6.jpg</g:additional_image_link>
-<g:item_group_id>STIMA-001-LATTE</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[STIMA-001-LATTE-40]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Camicia in sangallo di cotone]]></title>
-<description><![CDATA[Camicia bianca in sangallo di cotone, collo alla coreana, maniche corte, linea morbida, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/emme-camicia-in-sangallo-di-cotone-stima-001-latte.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[Out of Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>44.95 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Bianco]]></g:color>
-<g:size><![CDATA[40]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[STIMA-001-LATTE-40]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stima-001-latte_4.jpg</g:additional_image_link>
@@ -34326,7 +34207,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tailleur]]></g:product_type>
@@ -34360,17 +34241,17 @@
 <link>https://bluefields.it/it/emme-completo-gilet-con-pantalone-ellisse-001-perla.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/e/l/ellisse-001-perla_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>219.90 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tailleur]]></g:product_type>
-<g:sale_price>109.95 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -35117,7 +34998,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sandali]]></g:product_type>
@@ -42963,7 +42844,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear &gt; Top]]></g:product_type>
@@ -44828,7 +44709,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear &gt; T Shirt]]></g:product_type>
@@ -45886,45 +45767,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[STOMA-006-RIGA-CORDA]]></g:id>
-<title><![CDATA[Pennyblack]]> <![CDATA[Chemisier in lino]]></title>
-<description><![CDATA[Chemisier in lino color corda a righe, collo a camicia, maniche tre quarti, sottoveste in mussola di cotone, chiusura con bottoni, linea asciutta nel busto e svasata al fondo, cintura coordinata, tasche inserite sul fianco, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Pennyblack Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/pennyblack-chemisier-in-lino-stoma-006-riga-corda.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>209.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
-<g:sale_price>104.50 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Pennyblack]]></g:brand>
-<g:color><![CDATA[Beige]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[STOMA-006-RIGA-CORDA]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_6.jpg</g:additional_image_link>
-<g:item_group_id>STOMA-006-RIGA-CORDA</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[L5SK34-W26-0-MAGMA-48]]></g:id>
 <title><![CDATA[Liviana Conti]]> <![CDATA[Abito lungo in popeline]]></title>
 <description><![CDATA[Abito marrone in popeline di misto cotone, scollo tondo con apertura a goccia sul dietro, senza maniche, dettaglio di riprese in vita, linea morbida, sfoderato, made in Italy, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Liviana Conti Primavera Estate 2025]]></description>
@@ -46441,45 +46283,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[MOSELLA2-003-BURRO]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Tuta bustier in lino]]></title>
-<description><![CDATA[Tuta bustier color burro in lino, senza maniche, bustino strutturato  elastico sul dietro, chiusura con zip invisibile sul dietro, tasche inserite sul fianco, tasche applicate con patta e bottone effetto cargo, linea asciutta nel busto e morbida nei pantaloni,  la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/emme-tuta-bustier-in-lino-mosella2-003-burro.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>199.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Monopezzi &gt; Tute e tutine]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tute]]></g:product_type>
-<g:sale_price>99.95 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Avorio]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[MOSELLA2-003-BURRO]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_6.jpg</g:additional_image_link>
-<g:item_group_id>MOSELLA2-003-BURRO</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[MERLO1-014-FONDO-BIANCO-48]]></g:id>
 <title><![CDATA[Emme]]> <![CDATA[Abito in popeline di cotone]]></title>
 <description><![CDATA[Abito in popeline di cotone avorio a righe vericali, scollo tondo, chiusura sul dietro con bottoni, senza maniche, tasche inserite sul fianco, sfoderato, linea dritta, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
@@ -46705,45 +46508,6 @@
 <g:size><![CDATA[48]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[L5SU08-ROS-6-ROSA-MACRO-NERA-48]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_6.jpg</g:additional_image_link>
-<g:item_group_id>L5SU08-ROS-6-ROSA-MACRO-NERA</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[L5SU08-ROS-6-ROSA-MACRO-NERA]]></g:id>
-<title><![CDATA[Liviana Conti]]> <![CDATA[Gonna lunga in popeline di cotone]]></title>
-<description><![CDATA[Gonna lunga in popeline di cotone stretch bianco con stampa macro fiore nero, sfoderata, vita elastica, linea svasata, made in Italy, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Liviana Conti Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/liviana-conti-gonna-lunga-in-popeline-di-cotone-l5su08-ros-6-rosa-macro-nera.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>234.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Gonne]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento Gonne]]></g:product_type>
-<g:sale_price>117.00 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Liviana Conti]]></g:brand>
-<g:color><![CDATA[Bianco]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[L5SU08-ROS-6-ROSA-MACRO-NERA]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_4.jpg</g:additional_image_link>
@@ -47075,45 +46839,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[CAMILLE1-006-AZZURRO]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Tuta in raso]]></title>
-<description><![CDATA[Tuta azzurra in raso, bustier strutturato, chiusura con zip invisibile sul dietro, linea aderente nel busto e morbida sul pantalone, tasche inserite sul fianco, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna  Emme by Marella Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/emme-tuta-in-raso-camille1-006-azzurro.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>169.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Monopezzi &gt; Tute e tutine]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tute]]></g:product_type>
-<g:sale_price>84.95 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Azzurro]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[CAMILLE1-006-AZZURRO]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_6.jpg</g:additional_image_link>
-<g:item_group_id>CAMILLE1-006-AZZURRO</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[PACE-002-NUDO-40]]></g:id>
 <title><![CDATA[Pennyblack]]> <![CDATA[Abito lungo in taffett&#224;]]></title>
 <description><![CDATA[Abito lungo in taffett&#224; rosa cipria, scollo a V incrociato davanti e dietro, senza maniche, chiusura laterale con zip invisibile, linea svasata al fondo, vita delineata con  arricciatura, parzialmente foderato, tasche inserite sul fianco, il poliestere che compone questo capo &#232; derivato dal riciclo di materiale plastico, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Pennyblack Primavera Estate 2025]]></description>
@@ -47299,45 +47024,6 @@
 <g:size><![CDATA[M]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[E2789-1142-6007-NAVY-M]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_6.jpg</g:additional_image_link>
-<g:item_group_id>E2789-1142-6007-NAVY</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[E2789-1142-6007-NAVY]]></g:id>
-<title><![CDATA[Justmine]]> <![CDATA[Abito lungo in jersey a fantasia]]></title>
-<description><![CDATA[Abito in jersey stretch a fantasia blu, azzurro e bruciato, scollo con arricciatura sul davanti, senza maniche, linea morbida, sfoderato, made in Italy, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Justmine Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/justmine-abito-lungo-in-jersey-a-fantasia-e2789-1142-6007-navy.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>199.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
-<g:sale_price>99.50 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Justmine]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[E2789-1142-6007-NAVY]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_4.jpg</g:additional_image_link>
@@ -47629,45 +47315,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[SCORTA-002-FONDO-BLU-FIORE]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Abito lungo in jersey]]></title>
-<description><![CDATA[Abito lungo blu con stampa fiore in jersey stretch, scollo tondo, maniche corte, dettaglio di fiocco laterale, foderato, linea morbida, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/emme-abito-lungo-in-jersey-scorta-002-fondo-blu-fiore.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>149.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
-<g:sale_price>74.95 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[SCORTA-002-FONDO-BLU-FIORE]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_6.jpg</g:additional_image_link>
-<g:item_group_id>SCORTA-002-FONDO-BLU-FIORE</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[CFDTDZ-5102E-130-SAND-42]]></g:id>
 <title><![CDATA[Tandem]]> <![CDATA[Camicia devor&#232;]]></title>
 <description><![CDATA[Camicia devor&#232; color sabbia in cotone, collo a camicia, maniche lunghe con polsino, chiusura con bottoni,  linea morbida con coulisse sul fondo, made in Italy, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Tandem  Primavera Estate 2025]]></description>
@@ -47935,45 +47582,6 @@
 <g:size><![CDATA[34]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[344-DYED-TMLS07-NOCCIOLA-34]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_6.jpg</g:additional_image_link>
-<g:item_group_id>344-DYED-TMLS07-NOCCIOLA</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[344-DYED-TMLS07-NOCCIOLA]]></g:id>
-<title><![CDATA[Cigala&#039;s]]> <![CDATA[Jeans chino]]></title>
-<description><![CDATA[Jeans color nocciola in cotone,lino e lyocell stretch, chiusura con bottone a chiodo e zip nascosta, tasche alla francese sul davanti e tasche a filetto sul dietro, linea relaxed chino, made in Italy, la modella indossa una tg.28, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Cigala&#039;s Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/cigala-s-jeans-chino-344-dyed-tmls07-nocciola.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>228.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni &gt; Jeans]]></g:product_type>
-<g:sale_price>114.00 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Cigala&#039;s]]></g:brand>
-<g:color><![CDATA[Beige]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[344-DYED-TMLS07-NOCCIOLA]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_4.jpg</g:additional_image_link>
@@ -53057,7 +52665,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sneakers]]></g:product_type>
@@ -54969,7 +54577,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
@@ -55003,17 +54611,17 @@
 <link>https://bluefields.it/it/emme-chemisier-in-cotone-inning-010-rigato.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/i/n/inning-010-rigato_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>119.90 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
-<g:sale_price>59.95 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -55341,6 +54949,45 @@
 <g:size><![CDATA[50]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[FILOVIA-001-BIANCO-50]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_6.jpg</g:additional_image_link>
+<g:item_group_id>FILOVIA-001-BIANCO</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[FILOVIA-001-BIANCO]]></g:id>
+<title><![CDATA[I Blues]]> <![CDATA[Pantaloni a sigaretta]]></title>
+<description><![CDATA[Pantaloni bianchi in popeline di misto cotone stretch, chiusura con bottone e zip nascosta, tasche alla francese, vita elastica sul dietro, fondo pi&#249; lungo dietro, linea a sigaretta, piega stirata davanti e dietro, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna  I Blues  Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/i-blues-pantaloni-a-sigaretta-filovia-001-bianco.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>95.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni]]></g:product_type>
+<g:sale_price>47.50 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[I Blues]]></g:brand>
+<g:color><![CDATA[Bianco]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[FILOVIA-001-BIANCO]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_4.jpg</g:additional_image_link>
@@ -55921,7 +55568,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Gonne]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento Gonne]]></g:product_type>
@@ -58142,7 +57789,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
@@ -58176,17 +57823,17 @@
 <link>https://bluefields.it/it/i-blues-blusa-in-seta-canoa-003-fondo-bianco.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/c/a/canoa-003-fondo-bianco_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>119.00 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>59.50 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -58300,7 +57947,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
@@ -58419,7 +58066,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
@@ -58453,17 +58100,17 @@
 <link>https://bluefields.it/it/emme-abito-in-cotone-banca-002-verde.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/b/a/banca-002-verde_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>129.90 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
-<g:sale_price>64.95 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -59052,7 +58699,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
@@ -59086,17 +58733,17 @@
 <link>https://bluefields.it/it/maidamila-t-shirt-in-jersey-251m1350-304-blu-navy.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/2/5/251m1350-304-blu-navy_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>120.00 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>60.00 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -62642,7 +62289,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sneakers]]></g:product_type>
@@ -62675,17 +62322,17 @@
 <link>https://bluefields.it/it/verbenas-sneakers-bassa-sora-nylon-01-nude-nude.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/s/o/sora-nylon-01-nude-nude_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sneakers]]></g:product_type>
-<g:sale_price>62.93 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -62860,43 +62507,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[RAIN-VELOUR-01-KAKI]]></g:id>
-<title><![CDATA[Verbenas]]> <![CDATA[Sandali bassi con nodi]]></title>
-<description><![CDATA[Sandali bassi in pelle scamosciata color kaki, fussbett, sottopiede in pelle, suola in gomma, fasce con nodi, collezione Verbenas  Primavera estate 2025]]></description>
-<link>https://bluefields.it/it/verbenas-sandali-bassi-con-nodi-rain-velour-01-kaki.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>69.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sandali]]></g:product_type>
-<g:sale_price>48.93 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Verbenas]]></g:brand>
-<g:color><![CDATA[Khaki]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[RAIN-VELOUR-01-KAKI]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_4.jpg</g:additional_image_link>
-<g:item_group_id>RAIN-VELOUR-01-KAKI</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[MAIKA-SERRAJE-01-NEGRO-40]]></g:id>
 <title><![CDATA[Verbenas]]> <![CDATA[Espadrilles in pelle scamosciata]]></title>
 <description><![CDATA[Espadrilles con zeppa in pelle scamosciata color nero, sottopiede in pelle imbottito, zeppa 50mm, platform 10mm, suola in gomma, punta tonda, collezione donna Verbenas Primavera Estate 2025]]></description>
@@ -62925,43 +62535,6 @@
 <g:gender><![CDATA[female]]></g:gender>
 <g:gtin>8445002615678</g:gtin>
 <g:mpn><![CDATA[MAIKA-SERRAJE-01-NEGRO-40]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_4.jpg</g:additional_image_link>
-<g:item_group_id>MAIKA-SERRAJE-01-NEGRO</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[MAIKA-SERRAJE-01-NEGRO]]></g:id>
-<title><![CDATA[Verbenas]]> <![CDATA[Espadrilles in pelle scamosciata]]></title>
-<description><![CDATA[Espadrilles con zeppa in pelle scamosciata color nero, sottopiede in pelle imbottito, zeppa 50mm, platform 10mm, suola in gomma, punta tonda, collezione donna Verbenas Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/verbenas-espadrilles-in-pelle-scamosciata-maika-serraje-01-negro.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>69.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Espadrilles]]></g:product_type>
-<g:sale_price>48.93 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Verbenas]]></g:brand>
-<g:color><![CDATA[Nero]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[MAIKA-SERRAJE-01-NEGRO]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_4.jpg</g:additional_image_link>
@@ -63760,43 +63333,6 @@
 <g:size><![CDATA[41]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
 <g:mpn><![CDATA[LORELLA-NUDE-41]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_4.jpg</g:additional_image_link>
-<g:item_group_id>LORELLA-NUDE</g:item_group_id>
-<g:stagione>PE2025</g:stagione>
-<g:custom_label_0>PE2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1>SALE</g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[LORELLA-NUDE]]></g:id>
-<title><![CDATA[Hope]]> <![CDATA[D&#233;collet&#233; in pelle]]></title>
-<description><![CDATA[D&#233;collet&#233; in pelle color nude con inserto elastico nero, tacco ricoperto 80mm, sottopiede in pelle, suola in gomma, made in Italy, collezione donna Hope Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/hope-d-233-collet-233-in-pelle-lorella-nude.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>185.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Decollete]]></g:product_type>
-<g:sale_price>92.50 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Hope]]></g:brand>
-<g:color><![CDATA[Beige]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[LORELLA-NUDE]]></g:mpn>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_2.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_3.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_4.jpg</g:additional_image_link>
@@ -77235,6 +76771,783 @@
 
 </item>
 <item>
+<g:id><![CDATA[JIMCO2-005-VERDE-GIRASOLE-42]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa verde a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco2-005-verde-girasole.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Verde]]></g:color>
+<g:size><![CDATA[42]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO2-005-VERDE-GIRASOLE-42]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO2-005-VERDE-GIRASOLE</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO2-005-VERDE-GIRASOLE]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa verde a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco2-005-verde-girasole.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Verde]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO2-005-VERDE-GIRASOLE]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO2-005-VERDE-GIRASOLE</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO1-001-CAMMELLO-48]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>89.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Animalier]]></g:color>
+<g:size><![CDATA[48]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-48]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO1-001-CAMMELLO-46]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>89.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Animalier]]></g:color>
+<g:size><![CDATA[46]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-46]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO1-001-CAMMELLO-44]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>89.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Animalier]]></g:color>
+<g:size><![CDATA[44]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-44]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO1-001-CAMMELLO-42]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>89.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Animalier]]></g:color>
+<g:size><![CDATA[42]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-42]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO1-001-CAMMELLO]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
+<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>89.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>89.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Animalier]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO1-001-CAMMELLO]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-46]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
+<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:size><![CDATA[46]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-46]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-44]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
+<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:size><![CDATA[44]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-44]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-42]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
+<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:size><![CDATA[42]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-42]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[JIMCO-010-BLU-FOGLIA]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
+<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
+<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>79.90 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
+<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[IBIZA-005-RIGA-S]]></g:id>
+<title><![CDATA[Pennyblack]]> <![CDATA[Dolcevita in jersey]]></title>
+<description><![CDATA[Dolcevita nera a righe in jersey di viscosa stretch, collo alto, maniche lunghe, linea semiaderente, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 179, seno 84, vita 63, fianchi 94, collezione donna Pennyblack  Autunno Inverno 2025/26]]></description>
+<link>https://bluefields.it/it/pennyblack-dolcevita-in-jersey-ibiza-005-riga.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>59.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>59.00 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Pennyblack]]></g:brand>
+<g:color><![CDATA[Nero]]></g:color>
+<g:size><![CDATA[S]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[IBIZA-005-RIGA-S]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_5.jpg</g:additional_image_link>
+<g:item_group_id>IBIZA-005-RIGA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[NEBBIA-001-BURRO]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Camicia in crepe di misto seta]]></title>
+<description><![CDATA[Camicia in crepe di misto seta color burro, collo a camicia, maniche lunghe con polsino, chiusura con bottoni, linea dritta, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/emme-camicia-in-crepe-di-misto-seta-nebbia-001-burro.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>109.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
+<g:sale_price>54.95 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Avorio]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[NEBBIA-001-BURRO]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/n/e/nebbia-001-burro_6.jpg</g:additional_image_link>
+<g:item_group_id>NEBBIA-001-BURRO</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[STOMA-006-RIGA-CORDA]]></g:id>
+<title><![CDATA[Pennyblack]]> <![CDATA[Chemisier in lino]]></title>
+<description><![CDATA[Chemisier in lino color corda a righe, collo a camicia, maniche tre quarti, sottoveste in mussola di cotone, chiusura con bottoni, linea asciutta nel busto e svasata al fondo, cintura coordinata, tasche inserite sul fianco, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Pennyblack Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/pennyblack-chemisier-in-lino-stoma-006-riga-corda.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>209.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
+<g:sale_price>104.50 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Pennyblack]]></g:brand>
+<g:color><![CDATA[Beige]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[STOMA-006-RIGA-CORDA]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/t/stoma-006-riga-corda_6.jpg</g:additional_image_link>
+<g:item_group_id>STOMA-006-RIGA-CORDA</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[MOSELLA2-003-BURRO]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Tuta bustier in lino]]></title>
+<description><![CDATA[Tuta bustier color burro in lino, senza maniche, bustino strutturato  elastico sul dietro, chiusura con zip invisibile sul dietro, tasche inserite sul fianco, tasche applicate con patta e bottone effetto cargo, linea asciutta nel busto e morbida nei pantaloni,  la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/emme-tuta-bustier-in-lino-mosella2-003-burro.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>199.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Monopezzi &gt; Tute e tutine]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tute]]></g:product_type>
+<g:sale_price>99.95 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Avorio]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[MOSELLA2-003-BURRO]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/o/mosella2-003-burro_6.jpg</g:additional_image_link>
+<g:item_group_id>MOSELLA2-003-BURRO</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[L5SU08-ROS-6-ROSA-MACRO-NERA]]></g:id>
+<title><![CDATA[Liviana Conti]]> <![CDATA[Gonna lunga in popeline di cotone]]></title>
+<description><![CDATA[Gonna lunga in popeline di cotone stretch bianco con stampa macro fiore nero, sfoderata, vita elastica, linea svasata, made in Italy, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Liviana Conti Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/liviana-conti-gonna-lunga-in-popeline-di-cotone-l5su08-ros-6-rosa-macro-nera.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>234.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Gonne]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento Gonne]]></g:product_type>
+<g:sale_price>117.00 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Liviana Conti]]></g:brand>
+<g:color><![CDATA[Bianco]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[L5SU08-ROS-6-ROSA-MACRO-NERA]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/5/l5su08-ros-6-rosa-macro-nera_6.jpg</g:additional_image_link>
+<g:item_group_id>L5SU08-ROS-6-ROSA-MACRO-NERA</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[CAMILLE1-006-AZZURRO]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Tuta in raso]]></title>
+<description><![CDATA[Tuta azzurra in raso, bustier strutturato, chiusura con zip invisibile sul dietro, linea aderente nel busto e morbida sul pantalone, tasche inserite sul fianco, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna  Emme by Marella Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/emme-tuta-in-raso-camille1-006-azzurro.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>169.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Monopezzi &gt; Tute e tutine]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Tute]]></g:product_type>
+<g:sale_price>84.95 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Azzurro]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[CAMILLE1-006-AZZURRO]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/camille1-006-azzurro_6.jpg</g:additional_image_link>
+<g:item_group_id>CAMILLE1-006-AZZURRO</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[E2789-1142-6007-NAVY]]></g:id>
+<title><![CDATA[Justmine]]> <![CDATA[Abito lungo in jersey a fantasia]]></title>
+<description><![CDATA[Abito in jersey stretch a fantasia blu, azzurro e bruciato, scollo con arricciatura sul davanti, senza maniche, linea morbida, sfoderato, made in Italy, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Justmine Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/justmine-abito-lungo-in-jersey-a-fantasia-e2789-1142-6007-navy.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>199.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
+<g:sale_price>99.50 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Justmine]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[E2789-1142-6007-NAVY]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/e/2/e2789-1142-6007-navy_6.jpg</g:additional_image_link>
+<g:item_group_id>E2789-1142-6007-NAVY</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[SCORTA-002-FONDO-BLU-FIORE]]></g:id>
+<title><![CDATA[Emme]]> <![CDATA[Abito lungo in jersey]]></title>
+<description><![CDATA[Abito lungo blu con stampa fiore in jersey stretch, scollo tondo, maniche corte, dettaglio di fiocco laterale, foderato, linea morbida, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/emme-abito-lungo-in-jersey-scorta-002-fondo-blu-fiore.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>149.90 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
+<g:sale_price>74.95 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Emme]]></g:brand>
+<g:color><![CDATA[Blu]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[SCORTA-002-FONDO-BLU-FIORE]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/s/c/scorta-002-fondo-blu-fiore_6.jpg</g:additional_image_link>
+<g:item_group_id>SCORTA-002-FONDO-BLU-FIORE</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[344-DYED-TMLS07-NOCCIOLA]]></g:id>
+<title><![CDATA[Cigala&#039;s]]> <![CDATA[Jeans chino]]></title>
+<description><![CDATA[Jeans color nocciola in cotone,lino e lyocell stretch, chiusura con bottone a chiodo e zip nascosta, tasche alla francese sul davanti e tasche a filetto sul dietro, linea relaxed chino, made in Italy, la modella indossa una tg.28, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Cigala&#039;s Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/cigala-s-jeans-chino-344-dyed-tmls07-nocciola.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>228.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni &gt; Jeans]]></g:product_type>
+<g:sale_price>114.00 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Cigala&#039;s]]></g:brand>
+<g:color><![CDATA[Beige]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[344-DYED-TMLS07-NOCCIOLA]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_4.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_5.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/3/4/344-dyed-tmls07-nocciola_6.jpg</g:additional_image_link>
+<g:item_group_id>344-DYED-TMLS07-NOCCIOLA</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
 <g:id><![CDATA[CFDTDZ-5404-790-BLUE]]></g:id>
 <title><![CDATA[Tandem]]> <![CDATA[Pantaloni ampi in viscosa]]></title>
 <description><![CDATA[Pantaloni ampi blu  in raso di viscosa, vita elastica sul dietro, chiusura con bottoni e zip nascosta, tasche alla francese, linea ampia, made in Italy, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Tandem  Primavera Estate 2025]]></description>
@@ -77742,38 +78055,36 @@
 
 </item>
 <item>
-<g:id><![CDATA[FILOVIA-001-BIANCO]]></g:id>
-<title><![CDATA[I Blues]]> <![CDATA[Pantaloni a sigaretta]]></title>
-<description><![CDATA[Pantaloni bianchi in popeline di misto cotone stretch, chiusura con bottone e zip nascosta, tasche alla francese, vita elastica sul dietro, fondo pi&#249; lungo dietro, linea a sigaretta, piega stirata davanti e dietro, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna  I Blues  Primavera Estate 2025]]></description>
-<link>https://bluefields.it/it/i-blues-pantaloni-a-sigaretta-filovia-001-bianco.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_1.jpg</g:image_link>
+<g:id><![CDATA[RAIN-VELOUR-01-KAKI]]></g:id>
+<title><![CDATA[Verbenas]]> <![CDATA[Sandali bassi con nodi]]></title>
+<description><![CDATA[Sandali bassi in pelle scamosciata color kaki, fussbett, sottopiede in pelle, suola in gomma, fasce con nodi, collezione Verbenas  Primavera estate 2025]]></description>
+<link>https://bluefields.it/it/verbenas-sandali-bassi-con-nodi-rain-velour-01-kaki.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>95.00 EUR</g:price>
+<g:price>69.90 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
 <g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Pantaloni]]></g:google_product_category>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Pantaloni]]></g:product_type>
-<g:sale_price>47.50 EUR</g:sale_price>
+<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Sandali]]></g:product_type>
+<g:sale_price>48.93 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:brand><![CDATA[I Blues]]></g:brand>
-<g:color><![CDATA[Bianco]]></g:color>
+<g:brand><![CDATA[Verbenas]]></g:brand>
+<g:color><![CDATA[Khaki]]></g:color>
 <g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[FILOVIA-001-BIANCO]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_5.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/f/i/filovia-001-bianco_6.jpg</g:additional_image_link>
-<g:item_group_id>FILOVIA-001-BIANCO</g:item_group_id>
+<g:mpn><![CDATA[RAIN-VELOUR-01-KAKI]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/r/a/rain-velour-01-kaki_4.jpg</g:additional_image_link>
+<g:item_group_id>RAIN-VELOUR-01-KAKI</g:item_group_id>
 <g:stagione>PE2025</g:stagione>
 <g:custom_label_0>PE2025</g:custom_label_0>
 <g:age_group>adult</g:age_group>
@@ -77781,468 +78092,77 @@
 
 </item>
 <item>
-<g:id><![CDATA[JIMCO2-005-VERDE-GIRASOLE-42]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa verde a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco2-005-verde-girasole.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_1.jpg</g:image_link>
+<g:id><![CDATA[MAIKA-SERRAJE-01-NEGRO]]></g:id>
+<title><![CDATA[Verbenas]]> <![CDATA[Espadrilles in pelle scamosciata]]></title>
+<description><![CDATA[Espadrilles con zeppa in pelle scamosciata color nero, sottopiede in pelle imbottito, zeppa 50mm, platform 10mm, suola in gomma, punta tonda, collezione donna Verbenas Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/verbenas-espadrilles-in-pelle-scamosciata-maika-serraje-01-negro.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
+<g:price>69.90 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
 <g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
+<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Espadrilles]]></g:product_type>
+<g:sale_price>48.93 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Verde]]></g:color>
-<g:size><![CDATA[42]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO2-005-VERDE-GIRASOLE-42]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO2-005-VERDE-GIRASOLE</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO2-005-VERDE-GIRASOLE]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa verde a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco2-005-verde-girasole.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Verde]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO2-005-VERDE-GIRASOLE]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco2-005-verde-girasole_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO2-005-VERDE-GIRASOLE</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO1-001-CAMMELLO-48]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>89.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Animalier]]></g:color>
-<g:size><![CDATA[48]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-48]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO1-001-CAMMELLO-46]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>89.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Animalier]]></g:color>
-<g:size><![CDATA[46]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-46]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO1-001-CAMMELLO-44]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>89.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Animalier]]></g:color>
-<g:size><![CDATA[44]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-44]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO1-001-CAMMELLO-42]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>89.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Animalier]]></g:color>
-<g:size><![CDATA[42]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO1-001-CAMMELLO-42]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO1-001-CAMMELLO]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill]]></title>
-<description><![CDATA[Blusa animalier in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-jimco1-001-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>89.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>89.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Animalier]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO1-001-CAMMELLO]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco1-001-cammello_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO1-001-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-46]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
-<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:size><![CDATA[46]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-46]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-44]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
-<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:size><![CDATA[44]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-44]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO-010-BLU-FOGLIA-42]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
-<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:size><![CDATA[42]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA-42]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[JIMCO-010-BLU-FOGLIA]]></g:id>
-<title><![CDATA[Emme]]> <![CDATA[Blusa in twill a fantasia]]></title>
-<description><![CDATA[Blusa blu a fantasia in twill, scollo tondo, maniche lunghe con polsino, linea dritta, fondo stondato, la modella indossa una tg.42, la modella ha le seguenti misure: altezza 178, seno 86,vita 65, fianchi 93, collezione donna Emme by Marella  Autunno Inverno  2025/26]]></description>
-<link>https://bluefields.it/it/emme-blusa-in-twill-a-fantasia-jimco-010-blu-foglia.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.90 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>79.90 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Emme]]></g:brand>
-<g:color><![CDATA[Blu]]></g:color>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[JIMCO-010-BLU-FOGLIA]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/j/i/jimco-010-blu-foglia_5.jpg</g:additional_image_link>
-<g:item_group_id>JIMCO-010-BLU-FOGLIA</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[IBIZA-005-RIGA-S]]></g:id>
-<title><![CDATA[Pennyblack]]> <![CDATA[Dolcevita in jersey]]></title>
-<description><![CDATA[Dolcevita nera a righe in jersey di viscosa stretch, collo alto, maniche lunghe, linea semiaderente, la modella indossa una tg.S, la modella ha le seguenti misure: altezza 179, seno 84, vita 63, fianchi 94, collezione donna Pennyblack  Autunno Inverno 2025/26]]></description>
-<link>https://bluefields.it/it/pennyblack-dolcevita-in-jersey-ibiza-005-riga.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_1.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>59.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Camicie e top]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Topwear]]></g:product_type>
-<g:sale_price>59.00 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Pennyblack]]></g:brand>
+<g:brand><![CDATA[Verbenas]]></g:brand>
 <g:color><![CDATA[Nero]]></g:color>
-<g:size><![CDATA[S]]></g:size>
 <g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[IBIZA-005-RIGA-S]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_2.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_3.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_4.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/i/b/ibiza-005-riga_5.jpg</g:additional_image_link>
-<g:item_group_id>IBIZA-005-RIGA</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
+<g:mpn><![CDATA[MAIKA-SERRAJE-01-NEGRO]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/m/a/maika-serraje-01-negro_4.jpg</g:additional_image_link>
+<g:item_group_id>MAIKA-SERRAJE-01-NEGRO</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
 <g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
+<g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[LORELLA-NUDE]]></g:id>
+<title><![CDATA[Hope]]> <![CDATA[D&#233;collet&#233; in pelle]]></title>
+<description><![CDATA[D&#233;collet&#233; in pelle color nude con inserto elastico nero, tacco ricoperto 80mm, sottopiede in pelle, suola in gomma, made in Italy, collezione donna Hope Primavera Estate 2025]]></description>
+<link>https://bluefields.it/it/hope-d-233-collet-233-in-pelle-lorella-nude.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_1.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>185.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Scarpe]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Scarpe &gt; Decollete]]></g:product_type>
+<g:sale_price>92.50 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Hope]]></g:brand>
+<g:color><![CDATA[Beige]]></g:color>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[LORELLA-NUDE]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_2.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_3.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/l/o/lorella-nude_4.jpg</g:additional_image_link>
+<g:item_group_id>LORELLA-NUDE</g:item_group_id>
+<g:stagione>PE2025</g:stagione>
+<g:custom_label_0>PE2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1>SALE</g:custom_label_1>
 
 </item>
 <item>
@@ -81865,7 +81785,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abiti]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Abiti]]></g:product_type>
@@ -88381,7 +88301,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Gonne]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento Gonne]]></g:product_type>
