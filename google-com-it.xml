@@ -1,4 +1,4 @@
-<?xml version="1.0"?><rss version="2.0" xmlns:g="http://base.google.com/ns/1.0"> <channel><created_at>2025-10-26 01:00</created_at>
+<?xml version="1.0"?><rss version="2.0" xmlns:g="http://base.google.com/ns/1.0"> <channel><created_at>2025-10-27 01:00</created_at>
 
 <item>
 <g:id><![CDATA[22091-PLATINO]]></g:id>
@@ -18972,6 +18972,81 @@
 <g:custom_label_0>PE2025</g:custom_label_0>
 <g:age_group>adult</g:age_group>
 <g:custom_label_1>SALE</g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[CAP769QL3-CAMMELLO-TU]]></g:id>
+<title><![CDATA[Rosamunda]]> <![CDATA[Cuffia in misto angora]]></title>
+<description><![CDATA[Cuffia color cammello in misto angora, dettaglio di applicazione in tessuto, made in Italy, collezione donna  Rosamunda   Autunno Inverno 2025/26]]></description>
+<link>https://bluefields.it/it/rosamunda-cuffia-in-misto-angora-cap769ql3-cammello.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0023.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Accessori di abbigliamento &gt; Cappelli]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Accessori &gt; Cappelli]]></g:product_type>
+<g:sale_price>79.00 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Rosamunda]]></g:brand>
+<g:color><![CDATA[Cuoio]]></g:color>
+<g:size><![CDATA[TU]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[CAP769QL3-CAMMELLO-TU]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0022.jpg</g:additional_image_link>
+<g:item_group_id>CAP769QL3-CAMMELLO</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
+
+</item>
+<item>
+<g:id><![CDATA[CAP765QB1-VIOLA-TU]]></g:id>
+<title><![CDATA[Rosamunda]]> <![CDATA[Cappello in misto lana e cashmere]]></title>
+<description><![CDATA[Cappello con visiera viola in misto viscosa, lana merino e cashmere, made in Italy, collezione donna  Rosamunda   Autunno Inverno 2025/26]]></description>
+<link>https://bluefields.it/it/rosamunda-cappello-in-misto-lana-e-cashmere-cap765qb1-viola.html</link>
+<g:image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0033.jpg</g:image_link>
+<g:condition>new</g:condition>
+<g:price>79.00 EUR</g:price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:availability><![CDATA[In Stock]]></g:availability>
+<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Accessori di abbigliamento &gt; Cappelli]]></g:google_product_category>
+<g:identifier_exists>TRUE</g:identifier_exists>
+<g:product_type><![CDATA[Donna &gt; Accessori &gt; Cappelli]]></g:product_type>
+<g:sale_price>79.00 EUR</g:sale_price>
+<g:tax>
+ <g:country>IT</g:country>
+ <g:rate>22</g:rate>
+ <g:tax_ship>n</g:tax_ship>
+</g:tax>
+<g:brand><![CDATA[Rosamunda]]></g:brand>
+<g:color><![CDATA[Viola]]></g:color>
+<g:size><![CDATA[TU]]></g:size>
+<g:gender><![CDATA[female]]></g:gender>
+<g:mpn><![CDATA[CAP765QB1-VIOLA-TU]]></g:mpn>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0034.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0032.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0035.jpg</g:additional_image_link>
+<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0036.jpg</g:additional_image_link>
+<g:item_group_id>CAP765QB1-VIOLA</g:item_group_id>
+<g:stagione>AI2025</g:stagione>
+<g:custom_label_0>AI2025</g:custom_label_0>
+<g:age_group>adult</g:age_group>
+<g:custom_label_1></g:custom_label_1>
 
 </item>
 <item>
@@ -42359,7 +42434,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abbigliamento per esterno &gt; Cappotti e giacche]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Giacche]]></g:product_type>
@@ -99734,42 +99809,6 @@
 
 </item>
 <item>
-<g:id><![CDATA[CAP769QL3-CAMMELLO-TU]]></g:id>
-<title><![CDATA[Rosamunda]]> <![CDATA[Cuffia in misto angora]]></title>
-<description><![CDATA[Cuffia color cammello in misto angora, dettaglio di applicazione in tessuto, made in Italy, collezione donna  Rosamunda   Autunno Inverno 2025/26]]></description>
-<link>https://bluefields.it/it/rosamunda-cuffia-in-misto-angora-cap769ql3-cammello.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0023.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Accessori di abbigliamento &gt; Cappelli]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Accessori &gt; Cappelli]]></g:product_type>
-<g:sale_price>79.00 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Rosamunda]]></g:brand>
-<g:color><![CDATA[Cuoio]]></g:color>
-<g:size><![CDATA[TU]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[CAP769QL3-CAMMELLO-TU]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0022.jpg</g:additional_image_link>
-<g:item_group_id>CAP769QL3-CAMMELLO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
 <g:id><![CDATA[CAP769QL3-CAMMELLO]]></g:id>
 <title><![CDATA[Rosamunda]]> <![CDATA[Cuffia in misto angora]]></title>
 <description><![CDATA[Cuffia color cammello in misto angora, dettaglio di applicazione in tessuto, made in Italy, collezione donna  Rosamunda   Autunno Inverno 2025/26]]></description>
@@ -99875,45 +99914,6 @@
 <g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/cap765qb2-nero_4.jpg</g:additional_image_link>
 <g:additional_image_link>https://bluefields.it/media/catalog/product/c/a/cap765qb2-nero_5.jpg</g:additional_image_link>
 <g:item_group_id>CAP765QB2-NERO</g:item_group_id>
-<g:stagione>AI2025</g:stagione>
-<g:custom_label_0>AI2025</g:custom_label_0>
-<g:age_group>adult</g:age_group>
-<g:custom_label_1></g:custom_label_1>
-
-</item>
-<item>
-<g:id><![CDATA[CAP765QB1-VIOLA-TU]]></g:id>
-<title><![CDATA[Rosamunda]]> <![CDATA[Cappello in misto lana e cashmere]]></title>
-<description><![CDATA[Cappello con visiera viola in misto viscosa, lana merino e cashmere, made in Italy, collezione donna  Rosamunda   Autunno Inverno 2025/26]]></description>
-<link>https://bluefields.it/it/rosamunda-cappello-in-misto-lana-e-cashmere-cap765qb1-viola.html</link>
-<g:image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0033.jpg</g:image_link>
-<g:condition>new</g:condition>
-<g:price>79.00 EUR</g:price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
-<g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Accessori di abbigliamento &gt; Cappelli]]></g:google_product_category>
-<g:identifier_exists>TRUE</g:identifier_exists>
-<g:product_type><![CDATA[Donna &gt; Accessori &gt; Cappelli]]></g:product_type>
-<g:sale_price>79.00 EUR</g:sale_price>
-<g:tax>
- <g:country>IT</g:country>
- <g:rate>22</g:rate>
- <g:tax_ship>n</g:tax_ship>
-</g:tax>
-<g:brand><![CDATA[Rosamunda]]></g:brand>
-<g:color><![CDATA[Viola]]></g:color>
-<g:size><![CDATA[TU]]></g:size>
-<g:gender><![CDATA[female]]></g:gender>
-<g:mpn><![CDATA[CAP765QB1-VIOLA-TU]]></g:mpn>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0034.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0032.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0035.jpg</g:additional_image_link>
-<g:additional_image_link>https://bluefields.it/media/catalog/product/b/i/bibi_0036.jpg</g:additional_image_link>
-<g:item_group_id>CAP765QB1-VIOLA</g:item_group_id>
 <g:stagione>AI2025</g:stagione>
 <g:custom_label_0>AI2025</g:custom_label_0>
 <g:age_group>adult</g:age_group>
@@ -128017,7 +128017,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Accessori di abbigliamento &gt; Cinture]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Accessori &gt; Cinture]]></g:product_type>
@@ -142139,7 +142139,7 @@
  <g:rate>22</g:rate>
  <g:tax_ship>n</g:tax_ship>
 </g:tax>
-<g:availability><![CDATA[In Stock]]></g:availability>
+<g:availability><![CDATA[Out of Stock]]></g:availability>
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abbigliamento per esterno &gt; Cappotti e giacche]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Cappotti]]></g:product_type>
@@ -142172,7 +142172,7 @@
 <link>https://bluefields.it/it/transit-cappottoin-lana-cotta-cfdtrby340-10-black.html</link>
 <g:image_link>https://bluefields.it/media/catalog/product/c/f/cfdtrby340-10-black_1.jpg</g:image_link>
 <g:condition>new</g:condition>
-<g:price>998.00 EUR</g:price>
+<g:price>0.00 EUR</g:price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
@@ -142182,7 +142182,7 @@
 <g:google_product_category><![CDATA[Abbigliamento e accessori &gt; Abbigliamento &gt; Abbigliamento per esterno &gt; Cappotti e giacche]]></g:google_product_category>
 <g:identifier_exists>TRUE</g:identifier_exists>
 <g:product_type><![CDATA[Donna &gt; Abbigliamento &gt; Cappotti]]></g:product_type>
-<g:sale_price>998.00 EUR</g:sale_price>
+<g:sale_price>0.00 EUR</g:sale_price>
 <g:tax>
  <g:country>IT</g:country>
  <g:rate>22</g:rate>
